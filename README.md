@@ -77,10 +77,10 @@ It is especially useful for ship navigation, robotics, UAVs, or any time-series 
 
 ## Screenshots
 
-![North Up Orientation](https://raw.githubusercontent.com/OceanDataTools/grafana-windrose-panel/main/src/screenshots/windrose-north-up.png)
+![North Up Orientation](https://raw.githubusercontent.com/OceanDataTools/grafana-windrose-panel/blob/main/src/screenshots/windrose-north-up.png)
 
 _North up orientation for windrose visualization_
 
-![Custom Styling](https://raw.githubusercontent.com/OceanDataTools/grafana-windrose-panel/main/src/screenshots/windrose-bow-up.png)
+![Custom Styling](https://raw.githubusercontent.com/OceanDataTools/grafana-windrose-panel/blob/main/src/screenshots/windrose-bow-up.png)
 
 _Bow up orientation for windrose visualization_
