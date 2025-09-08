@@ -8,7 +8,7 @@
 **Windrose** is a Grafana visualization plugin for displaying heading or orientation data on a windrose dial.  
 It is especially useful for ship navigation, robotics, UAVs, or any time-series data representing direction in degrees (0–360).
 
-![Windrose Example](https://raw.githubusercontent.com/OceanDataTools/grafana-windrose-panel/main/src/screenshots/windrose-with-needle.png)
+![Windrose Example](https://raw.githubusercontent.com/OceanDataTools/grafana-windrose-panel/main/src/screenshots/windrose-north-up.png)
 
 ---
 

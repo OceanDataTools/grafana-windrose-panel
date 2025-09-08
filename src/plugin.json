@@ -34,20 +34,12 @@
     ],
     "screenshots": [
       {
-        "name": "Windrose with needle",
-        "path": "screenshots/windrose-with-needle.png"
+        "name": "Windrose with North up orientation",
+        "path": "screenshots/windrose-north-up.png"
       },
       {
-        "name": "Windrose with arrow",
-        "path": "screenshots/windrose-with-arrow.png"
-      },
-      {
-        "name": "Windrose with ship profile",
-        "path": "screenshots/windrose-with-ship-profile.png"
-      },
-      {
-        "name": "Windrose with custom styling",
-        "path": "screenshots/windrose-with-custom-styling.png"
+        "name": "Windrose with bow up orientation",
+        "path": "screenshots/windrose-bow-up.png"
       }
     ],
     "version": "%VERSION%",
