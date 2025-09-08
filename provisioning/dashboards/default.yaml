@@ -1,7 +1,7 @@
 apiVersion: 1
 
 providers:
-  - name: 'compass-panel'
+  - name: 'windrose-panel'
     type: file
     options:
       path: /etc/grafana/provisioning/dashboards
